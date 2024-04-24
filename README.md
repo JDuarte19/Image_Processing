@@ -13,3 +13,6 @@ There are 3 parts of this program.
 1. Forward Rotation: Simply rotate an image by radians
 2. Inverse Rotation: Inverse an images current position by radians
 3. Interpolation Rotation: Interpolate pixels to create a clearer image (not very effective)
+
+- Usage: 'python dip_hw1_rotate.py -i image-name -t theta -m method'
+- example: 'python dip_hw1_rotate.py -i cameraman.jpg -t 0.5 -m bilinear'
