@@ -1,7 +1,9 @@
 # Image_Processing
 The goal is to show how we can use math and computer languages(python) to manipulate images through functions/algorithms to increase the amount of information that can be provided.
 
-All libraries I am using can be found in the requirements.txt.
+These programs were for a course over digital image processing, and all the mathematical equations and ideas were gained from that course, but all written code and debugging were done by myself.
+
+All libraries I am using can be found in the requirements.txt file.
 
 # Flip
 This program will simply flip an image either horizontally or vertically.
@@ -16,3 +18,5 @@ There are 3 parts of this program.
 
 - Usage: 'python dip_hw1_rotate.py -i image-name -t theta -m method'
 - example: 'python dip_hw1_rotate.py -i cameraman.jpg -t 0.5 -m bilinear'
+
+# Blob Detection - WIP
