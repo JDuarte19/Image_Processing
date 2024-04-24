@@ -1,4 +1,4 @@
-from .interpolation import interpolation
+import interpolation
 from dip import *
 import math
  
